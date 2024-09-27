@@ -1,5 +1,81 @@
-**Jego** is an efficient, secure, and stable VPN tool designed for circumventing internet restrictions. It helps users bypass network blocks and access foreign websites and applications across borders. <br />
-Website: [https://jegocloud.com/](https://jegocloud.com/)<br /><br />
+**无忧行概述**
 
-**无忧行**，一款专为Edge和Chrome浏览器设计的简单易用科学上网插件，集高效性、安全性于一身。无忧行插件利用尖端技术突破网络封锁限制，为用户提供全球网络的畅通无阻访问。<br />
-网站: [https://jegocloud.com/zh](https://jegocloud.com/zh/)
+无忧行是最好用的免费代理工具，专为Edge和Chrome浏览器设计，能够安全、高效地绕过防火墙（翻墙），轻松访问全球网站。它简单易用，且兼具高效与安全。无忧行插件依靠尖端技术突破网络封锁，为用户提供不限流量、畅通无阻的全球互联网访问体验。
+
+**无忧行插件的使用教程**
+
+快速实现浏览器翻墙
+无忧行插件的翻墙功能专为浏览器设计，简单易用、高效安全，能满足绝大多数用户的日常使用。
+
+ |-📗如何安装
+
+ |-👶初次使用
+
+ |-🟢服务详解
+
+          |- 🤖 如何解锁New Bing、Copilot或者ChatGPT
+          
+ |-🌐节点选择
+
+          |- 📋节点介绍
+          
+ |-☑️模式选择
+
+ |-🔀代理策略
+
+ |-🆙防止失联
+
+ |-🙋联系客服
+
+ |-❓常见问题
+
+
+**如何升级会员**
+
+会员权益
+- 您将能享受无忧行插件里更多、更快、更稳定的网络节点，纵享丝滑体验，轻松突破地区限制。
+- 您还能享受无忧行的订阅节点服务（大陆用户通常称之为“机场”），更多详情请移步 多设备兼容了解更多。
+
+ |-🏆会员体系
+
+ |-💳如何支付
+
+**无忧行的订阅节点服务**
+
+轻松实现电脑或者手机的翻墙
+- 无忧行的订阅节点服务（大陆用户通常称之为“机场”）与Windows PC、macOS、iOS、iPadOS和Android系统上的众多网络代理工具程序（大陆用户通常称之为“梯子”）兼容。
+ - 经过简单学习，即可轻松实现电脑或者手机的翻墙，随时畅享无限制的全球网络资源。
+
+ |-👩‍💻多设备兼容
+
+         |-Clash for Android
+         
+         |-v2rayNG
+         
+         |-Surfboard
+         
+         |-Shadowrocket
+         
+         |-sing-box
+         
+         |-Surge
+         
+         |-Loon
+         
+         |-OneClick
+         
+         |-Quantumult X
+         
+         |-v2rayN
+         
+         |-Clash/Mihomo系列软件
+         
+ |-🇭🇰港区Apple ID注册流程
+
+ |-🇺🇸美区Apple ID注册教程
+
+ |-🕵️神一样的工具们
+
+滥用处罚
+🥵多人共享
+🤝公平使用政策
